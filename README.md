@@ -72,8 +72,4 @@ I will update this section regularly to keep track of my progress throughout the
 - [ ] Extending Classes and Inheritance: Hand Cricket Game
 - [ ] Working with Polymorphism and Abstract Classes: Slot Machine Game
 - [ ] Understanding File I/O: Hangman Game
-- [ ] Building Simple Games: Blackjack Game
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [ ] Building Simple Games: Blackjack Gamek
