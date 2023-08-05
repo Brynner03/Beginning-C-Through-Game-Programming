@@ -63,7 +63,7 @@ The course is divided into several chapters, covering different aspects of C++ g
 
 I will update this section regularly to keep track of my progress throughout the course. Feel free to check out the code and projects as I move through the chapters.
 
-- [ ] Chapter 1 - Introduction to C++: Guess My Number Game
+- [X] Chapter 1 - Introduction to C++: Guess My Number Game
 - [ ] Chapter 2 - Working with Variables and Constants: Monster Attack Game
 - [ ] Chapter 3 - Understanding Arrays and Strings: Word Jumble Game
 - [ ] Chapter 4 - Implementing Expressions, Decisions, and Loops: High-Low Game
