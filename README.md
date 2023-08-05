@@ -1,7 +1,7 @@
 # Beginning C++ Through Game Programming
 
 [![License](https://img.shields.io/badge/license-Cengage_Learning-blue.svg)](LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Brynner03/Beginning-Cpp-Through-Game-Programming)](https://github.com/Brynner03/Beginning-C-Through-Game-Programming/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Brynner03/Beginning-Cpp-Through-Game-Programming)](https://github.com/Brynner03/Beginning-Cpp-Through-Game-Programming/commits/main)
 
 ## About the Project
 
