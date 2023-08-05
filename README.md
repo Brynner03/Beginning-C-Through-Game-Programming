@@ -63,13 +63,13 @@ The course is divided into several chapters, covering different aspects of C++ g
 
 I will update this section regularly to keep track of my progress throughout the course. Feel free to check out the code and projects as I move through the chapters.
 
-- [ ] Introduction to C++: Guess My Number Game
-- [ ] Working with Variables and Constants: Monster Attack Game
-- [ ] Understanding Arrays and Strings: Word Jumble Game
-- [ ] Implementing Expressions, Decisions, and Loops: High-Low Game
-- [ ] Creating Functions in C++: Tic-Tac-Toe Game
-- [ ] Introducing Object-Oriented Programming: BattleShip Game
-- [ ] Extending Classes and Inheritance: Hand Cricket Game
-- [ ] Working with Polymorphism and Abstract Classes: Slot Machine Game
-- [ ] Understanding File I/O: Hangman Game
-- [ ] Building Simple Games: Blackjack Gamek
+- [ ] Chapter 1 - Introduction to C++: Guess My Number Game
+- [ ] Chapter 2 - Working with Variables and Constants: Monster Attack Game
+- [ ] Chapter 3 - Understanding Arrays and Strings: Word Jumble Game
+- [ ] Chapter 4 - Implementing Expressions, Decisions, and Loops: High-Low Game
+- [ ] Chapter 5 - Creating Functions in C++: Tic-Tac-Toe Game
+- [ ] Chapter 6 - Introducing Object-Oriented Programming: BattleShip Game
+- [ ] Chapter 7 - Extending Classes and Inheritance: Hand Cricket Game
+- [ ] Chapter 8 - Working with Polymorphism and Abstract Classes: Slot Machine Game
+- [ ] Chapter 9 - Understanding File I/O: Hangman Game
+- [ ] Chapter 10 - Building Simple Games: Blackjack Gamek
